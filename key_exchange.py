@@ -1,4 +1,5 @@
 # pymcl: https://github.com/Jemtaly/pymcl
+# Author: Zj_W1nd
 import pymcl
 import hashlib
 from signature import Signature
